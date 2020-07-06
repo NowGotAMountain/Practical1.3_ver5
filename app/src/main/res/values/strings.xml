@@ -1,0 +1,12 @@
+
+<resources>
+    <string name="app_name">Scrolling Text</string>
+    <string name="add_comment">Add Comment</string>
+    <string name="article_title">How to become a billionaire</string>
+
+    <string name="article_subtitle">Dream Big</string>
+
+    <string name="article_text"><b>What can you bring to the world that is unique, compelling, and helpful, with the ability to change lives and create a new business? No billionaire started a company to be mildly successful. At age 19, Bill Gates was one of the first to recognize that personal computers could revolutionize business, education, communications, and entertainment if their operation could be simplified so that everyone could use them. This led to the founding of Microsoft. Jeff Bezos, the founder of Amazon.com, recognized a future where virtual retailers could replace brick-and-mortar operations with lower costs, wider selections, and better customer service. Billionaires are adept at discerning what can be and making it come true.
+    </b><b>Realize that it is impossible to avoid all mistakes and pitfalls, so don’t be afraid of failure – even those of the magnitude that others consider spectacular and humiliating. Sam Walton’s first store in Arkansas went broke. Apple’s Newton platform was a colossal failure, but the lessons learned led to the iPad and the iPhone. And Apple’s Lisa computer was such a failure that Jobs lost his position with the company. James Dyson (number 318), the English inventor of the revolutionary Dyson vacuum cleaner, created 5,127 prototypes over 15 years before having a product he could take to market. Carlos Slim Helu believes the greatest opportunities lie in situations where others are afraid they might fail, stating, “When there is a crisis, that’s when some are interested in getting out – and that’s when we’re interested in getting in.”</b></string>
+
+</resources>
